@@ -1,4 +1,4 @@
-#**Disk Indexer**
+# Disk Indexer
 
 A simple tool for creating an sqlite database of all of the files and folders on a disk.
 
@@ -7,8 +7,8 @@ scan the drive with this tool and create a searchable database of all of the fil
 Omce you find the file you will know what disk your file is on
 
 ## Usage
-python3 main.py path-to-disk
-example: python3 main.py /Volumes/external_disk
+- python3 main.py path-to-disk
+- example: python3 main.py /Volumes/external_disk
 
 ### Current Features - or lack of
 - to browse use and sql browser I'm using [sqlitebrowser] (https://sqlitebrowser.org/)
