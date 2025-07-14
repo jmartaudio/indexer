@@ -4,7 +4,7 @@ A simple tool for creating an sqlite database of all of the files and folders on
 
 I have a lot of external disks all over the place. I forget what files are on them.
 scan the drive with this tool and create a searchable database of all of the files on the disk
-Once you find the file you will know what disk your file is on
+Once you find the file, you will know what disk your file is on
 
 ## Usage
 - python3 main.py path-to-disk
